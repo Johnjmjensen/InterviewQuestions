@@ -1,0 +1,18 @@
+We love @caz and acknowledge he is very split, tus causing us to act out, and miss his pation and zest
+
+IT ticket for power cord
+IT ticket for Zoom
+
+
+What does your SDLC look like? (Environments, checks etc.)
+What Audit constraints do you have?
+What is your branching strategy?
+Where are your automated tests stored?
+How is the work life balance?
+Is there a preffered Agile Framework used here?
+How are tools and code bases documented?
+Will I be able to determine my own solutions to problems?
+How easy or hard will it be to 
+
+
+
