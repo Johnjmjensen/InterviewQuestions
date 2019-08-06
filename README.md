@@ -1,2 +1,2 @@
 # InterviewQuestions
-Text read me of useful questions to ask during a interview.
+Text file of useful questions to ask during a interview.

@@ -6,7 +6,7 @@ How is the work life balance?
 Is there a preffered Agile Framework used here?
 How are tools and code bases documented?
 Will I be able to determine my own solutions to problems?
-How easy or hard will it be to aqquire the resources needed to do my job?
+How easy or hard will it be to aquire the resources needed to do my job?
 	If I determine that a new solution may be viable how hard will it be to aqquire the resources for that solution?
 
 
