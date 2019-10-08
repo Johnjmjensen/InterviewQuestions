@@ -3,6 +3,7 @@ What does your SDLC look like? (Environments, checks etc.)
 What Audit constraints do you have?
 What is your branching strategy?
 Where are your automated tests stored?
+What sort of focus is there on continuous integration?
 How is the work life balance?
 Is there a preffered Agile Framework used here?
 How are tools and code bases documented?
